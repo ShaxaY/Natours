@@ -6,3 +6,7 @@
     }
 }
 
+@mixin position-center {
+    position: absolute;
+    transform: translate(-50%, -50%);
+}
