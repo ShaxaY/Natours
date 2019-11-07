@@ -1,3 +1,3 @@
 # Natours Template
 
-Designed by @jonasschmedtmann
+Designed by [@jonasschmedtmann](https://github.com/jonasschmedtmann)
